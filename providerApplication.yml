@@ -1,5 +1,6 @@
 server:
-  port:			8084
+  port: 8084
+word: zzhang
 spring:
   application:
     name: provider
