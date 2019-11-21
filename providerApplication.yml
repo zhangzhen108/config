@@ -1,6 +1,6 @@
 server:
   port: 8084
-word: zzhang
+word: 组织者组织
 spring:
   application:
     name: provider
